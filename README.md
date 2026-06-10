@@ -1,5 +1,3 @@
-# Car-Sales-DashBoard-Using-Power-BI
-
 # 📌 Car Sales Dashboard Project
 
 ## 🧠 Background
